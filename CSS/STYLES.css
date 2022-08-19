@@ -1,0 +1,12 @@
+body
+{
+  background-color: plum;
+}
+hr
+{
+  border-style: none;
+  border-color: lightpink;
+  border-width: 7px;
+  border-top-style: dotted;
+  width: 15%;
+}
